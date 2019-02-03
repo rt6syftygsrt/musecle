@@ -1,0 +1,33 @@
+
+
+
+{
+    "secret": {
+        "token": "process.env.BOT_TOKEN",
+        "api_key": "AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8"
+    },
+    "bot": {
+        "prefix": "q"
+    },
+    "channels": {
+        "text": "532552196404019223",
+        "text": "529715704128339968",
+        "voice": "532645143950655503",
+        "voice": "529716166403424277"
+
+    },
+    "roles": {
+        "الإدارة": "411137717884289024",
+        "آءءءءءءءءءءءءءء": "513642775259119636",
+        "Try Administrator": "411137717884289024"
+    },
+    "music": {
+        "volume": 70
+    }
+}
+
+
+
+
+
+    

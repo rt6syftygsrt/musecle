@@ -1,1 +1,1 @@
-# musecle
+# Quick-MuS
