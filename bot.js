@@ -30,7 +30,7 @@ client.on('message', (message) => {
 
     let inVoiceChannel;
 
-    if (!message.content.startsWith(config.bot.prefix)) return;
+    if (!message.content.startsWith(config.bot.prefix)1) return;
 
     switch (command) {
 
@@ -367,4 +367,4 @@ client.on('message', message => {
 
 
 
-client.login(process.env.BOT_TOKEN);
+client.login('NTQxNjgxMzI5MTUwODg1ODg5.Dzi_lQ.6MwCp_5L7EDfI6NRz3c9g6sz5q0'); 
